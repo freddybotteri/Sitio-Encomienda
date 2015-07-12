@@ -1,0 +1,84 @@
+.box.parallax{
+    height: 500px;
+    
+
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.parallax.imagen1{
+  
+    background-image: url("../images/pc.jpg");
+}
+
+.parallax.imagen2{
+  	background-image: url("../images/mapa.jpg");
+
+}
+
+.parallax.imagen3{
+    background-image: url("../images/Entraga.jpg");
+
+}
+
+.content p {
+
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	font-weight: 20px;
+
+	
+
+	
+
+}
+.box h1 {
+  font-family: 'Lobster', cursive;
+
+}
+
+.content h1 {
+  font-family: 'Lobster', cursive;
+
+}
+
+.fondoPie{
+
+   background-image: url("../images/fondoPie.png");
+
+
+}
+
+
+
+.go-top {
+
+  position: fixed;
+
+  bottom: 2em;
+
+  right: 2em;
+
+  text-decoration: none;
+
+  color: #fff;
+
+  background-color: rgba(0, 0, 0, 0.3);
+
+  font-size: 12px;
+
+  padding: 1em;
+
+  display: none;
+
+}
+
+ 
+
+.go-top:hover {
+
+  background-color: rgba(0, 0, 0, 0.6);
+
+}
